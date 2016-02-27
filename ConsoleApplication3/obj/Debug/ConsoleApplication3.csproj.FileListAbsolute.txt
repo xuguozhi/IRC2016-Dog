@@ -1,0 +1,8 @@
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\bin\Debug\LumenWorks.Framework.IO.dll
+D:\徐国智的项目\opencv_test\ConsoleApplication3\ConsoleApplication3\bin\Debug\LumenWorks.Framework.IO.xml
